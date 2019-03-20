@@ -1,0 +1,15 @@
+Test Method Descriptions: 
+
+1. testInitialTabSize() - Tableau piles in Ace's Up initially hold 1 card
+2. testAddLegal() - Ace's Up tableau pile method correctly determines if adding a specific card is legal or illegal. To receive points, your test cannot call two separate methods (e.g., one for when the card comes from the stock pile and one for when the card comes from another tableau) to perform this check.
+				  - Adding card to Ace's Up tableau pile increases its number of cards and results in that card being the tableau pile's new top card
+3. testRemoveLegal() - Ace's Up tableau pile method correctly determines if removing a specific card is legal or illegal
+					 - Removing card from Ace's Up tableau pile decreases its number of cards and results in following card being the new top card 
+4. testHomecellInitialSize() - Homecell pile in Ace's Up initially holds 0 cards
+5. testHomecellAddLegal() - Ace's Up homecell pile correctly determines if adding a specific card is legal or illegal (e.g., always legal)
+6. testHomecellRemove() - Ace's Up homecell pile correctly returns if removing top card is legal or illegal (e.g., always illegal)
+7. testHomecellAdd() - Adding card to Ace's Up homecell pile increases its number of cards and results in that card being the homecell pile's new top card
+8. testStockInitialSize() - Ace's Up stock pile initially holds 48 cards
+9. testAddStock() - Ace's Up stock pile correctly returns if adding a specific card is legal or illegal (e.g., always illegal)
+10. testRemoveStock() - Ace's Up stock pile correctly returns if removing a specific card is legal or illegal
+11. testStockClicked() - Dealing cards from Ace's Up stock pile removes the top 4 cards, adds the removed cards to the tableau piles, and results in the 5th card being the new top card
