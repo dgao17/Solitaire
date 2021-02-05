@@ -11,13 +11,13 @@ The entire game is developed in Java within the Eclipse IDE. To run, open the pr
 ### Screenshots ###
 
 #### Start Screen ####
-![](Solitaire_StartScreen.png)
+![](https://github.com/dgao17/Solitaire/blob/master/Screenshots/Solitaire_StartScreen.png)
 
 #### Baker's Dozen ####
-![](Solitaire_BakersDozen.png)
+![](https://github.com/dgao17/Solitaire/blob/master/Screenshots/Solitaire_BakersDozen.png)
 
 #### FreeCell ####
-![](Solitaire_Freecell.png)
+![](https://github.com/dgao17/Solitaire/blob/master/Screenshots/Solitaire_Freecell.png)
 
 #### Ace's Up ####
-![](Solitaire_AcesUp.png)
+![](https://github.com/dgao17/Solitaire/blob/master/Screenshots/Solitaire_AcesUp.png)
